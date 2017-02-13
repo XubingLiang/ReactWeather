@@ -1,0 +1,11 @@
+upper case for component is a common sense
+
+e.preventDefault() this prevent submitting the form from submit and casuse the page refresh
+
+
+props get pass into component 
+
+state maintain and update by the component
+
+state can be change, props can’t
+ 
