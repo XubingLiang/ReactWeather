@@ -5,8 +5,8 @@ var About = React.createClass({
   render: function(){
     return(
       <div>
-        <h3>About</h3>
-        <p>welcome to my page.</p>
+        <h1>About</h1>
+        <p>Fuck off.</p>
       </div>
     );
   }
