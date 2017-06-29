@@ -6,6 +6,7 @@ var About = React.createClass({
     return(
       <div>
         <h3>About</h3>
+        <p>welcome to my page.</p>
       </div>
     );
   }
